@@ -14,6 +14,7 @@
    1. [王者荣耀KPL历年比赛数据集](./王者荣耀KPL历年比赛数据/README.md)
    2. [王者荣耀攻略数据集](./王者荣耀攻略/README.md)
    3. [crawler数据集](./crawler_data/README.md)
+   4. [王者荣耀多模态数据集](https://github.com/chg0901/Honor_of_Kings_Multi-modal_Dataset/blob/main/README_CN.md)
 2. 制作语料库
 3. 微调大模型  
 4. RAG  
